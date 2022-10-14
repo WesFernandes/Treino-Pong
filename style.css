@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(117, 115, 115);
+    color:aliceblue
+}
+
+h1{
+    text-align: center;
+}
+
+main{
+    text-align: center;
+   
+}
+
+
+.p5Canvas{
+    border:  solid;
+    border-color: rgb(233, 233, 5);
+}
+
+.btn{
+    margin-bottom: 50px;
+    
+   }
+
+button{
+    width: 100px;
+    height: 50px;
+    border-style:solid;
+    background-color: rgb(233, 116, 7);
+    cursor: pointer;
+        
+}
